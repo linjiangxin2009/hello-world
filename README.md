@@ -1,7 +1,7 @@
 # hello-world
 新建的库
 hello
-I in LinJiangxin
+I call LinJiangxin
 you？
-I liek bred
-I go to school bycar。
+I liek beef
+I go to school by car。
